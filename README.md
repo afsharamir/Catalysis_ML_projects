@@ -9,9 +9,6 @@ N. Artrith*, Z. Lin, and J. G Chen,
 Predicting the Activity and Selectivity of Bimetallic Metal Catalysts for Ethanol Reforming using Machine Learning,
 ACS Catal. 2020, 10, 9438−9444, DOI: https://doi.org/10.1021/acscatal.0c02089
 
-Please cite this reference if you make use of any parts of the source code or model or the DFT database.
-
-*Contact: nartrith@atomistic.net
 
 Subdirectory: ethanol-reforming
 
